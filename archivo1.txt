@@ -1,4 +1,9 @@
 chanchito feliz
 chanchito triste
+<<<<<<< HEAD
 otra linea rama master
  
+=======
+
+texto para nueva rama
+>>>>>>> ramab
